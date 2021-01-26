@@ -1,0 +1,106 @@
+<!--Custom Css Index page-->
+
+
+#footer h3 {
+	margin-left: 20px;
+}
+
+.col-md-4 img {
+	margin-left: 16px;
+	margin-top: 20px;
+}
+
+.col-md-4 p {
+	text-align: justify;
+	margin-left: 10px;
+     } 
+
+.col-md-3 h2 {
+	text-align: center;
+}
+
+.col-md-3 p {
+	text-align: justify;
+}
+
+.col-md-4 p {
+	text-align: justify;;
+}
+
+.col-md-4 li {
+	width: 80%;
+}
+
+.col-md-4 a {
+	color: black;
+}
+
+#footer h3, li, form {
+	color: white;
+	text-align: justify;
+}
+
+#footer a {
+	color: white;
+}
+
+#footer li {
+	list-style: none;
+}
+
+#footer {
+	background-color: #3d5271;
+   }
+
+body {
+	background-color: #c7c7c3;
+}
+
+.row {
+	background-color: #f8f8f8;
+	
+}
+
+.container {
+	box-shadow: 0 0 13px 5px grey;
+}
+
+.dropdown li {
+ 	background-color: grey;
+ }
+
+.navbar-default {
+  background-color: #69899f;
+	  }
+
+.navbar-default .navbar-nav li a 
+       {
+  color: #d7e2e9;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+	  color: white;
+		  }
+
+.gap {
+	height: 20px;
+}
+
+#my-slider {
+	margin-bottom: 20px;
+}
+
+.col-md-9 p {
+	font-size: 1.3em;
+	text-align: justify;
+}
+
+.col-md-9 h1, h4 {
+	text-align: center;
+}
+
+.btn {
+	background-color: #c7c7c3;
+}
+
